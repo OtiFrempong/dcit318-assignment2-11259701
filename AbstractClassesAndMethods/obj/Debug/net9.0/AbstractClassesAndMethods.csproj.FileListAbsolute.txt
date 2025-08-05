@@ -1,0 +1,15 @@
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.exe
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.deps.json
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.runtimeconfig.json
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfo.cs
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.sourcelink.json
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\refint\AbstractClassesAndMethods.dll
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.genruntimeconfig.cache
+C:\Users\motif\Desktop\dcit318 assignment2\dcit318-assignment2-11259701\AbstractClassesAndMethods\obj\Debug\net9.0\ref\AbstractClassesAndMethods.dll
